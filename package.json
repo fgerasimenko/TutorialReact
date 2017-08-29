@@ -1,0 +1,23 @@
+{
+  "name": "tutorialreact",
+  "version": "1.0.0",
+  "description": "Brincando com o React.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fgerasimenko/TutorialReact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fgerasimenko/TutorialReact/issues"
+  },
+  "homepage": "https://github.com/fgerasimenko/TutorialReact#readme",
+  "devDependencies": {
+    "webpack": "^3.5.5"
+  }
+}
